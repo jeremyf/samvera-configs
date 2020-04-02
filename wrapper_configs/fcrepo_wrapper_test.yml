@@ -1,0 +1,5 @@
+port: 8986
+enable_jms: false
+fcrepo_home_dir: ~/git/samvera-configs/instances/fcrepo4-test-data
+download_dir: ~/git/samvera-configs/downloads/
+instance_directory: ~/git/samvera-configs/instances/

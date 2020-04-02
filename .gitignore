@@ -1,0 +1,4 @@
+downloads/*.zip*
+downloads/*.jar*
+zips/*.zip
+instances/*

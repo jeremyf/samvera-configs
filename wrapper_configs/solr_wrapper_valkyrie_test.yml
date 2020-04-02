@@ -1,0 +1,10 @@
+# config/solr_wrapper_valkyrie_test.yml
+port: 8987
+instance_dir: ~/git/samvera-configs/instances/solr-valkyrie-test
+download_dir: ~/git/samvera-configs/downloads/
+solr_zip_path: ~/git/samvera-configs/zips/solr-8.4.1.zip
+version: 8.4.1
+collection:
+    persist: false
+    dir: ~/git/samvera-configs/solr/conf
+    name: hyrax-valkyrie-test
